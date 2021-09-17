@@ -1,5 +1,5 @@
 # TechReady
-Monash Bootcamp Project 2
+The go to place for interview questions
 
 ## Project Link
 -- Add HEROKU LINK https://gentle-headland-96957.herokuapp.com/
